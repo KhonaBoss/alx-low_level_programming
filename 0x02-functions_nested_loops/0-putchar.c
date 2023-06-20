@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main- First line of the code
+ * main- Entry point
+ * Description: A program that prints _putchar and new line
  *
  * return: always 0
  */
