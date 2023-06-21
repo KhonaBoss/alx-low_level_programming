@@ -2,7 +2,6 @@
 
 /**
  * main -Entry point
- * Description: A program that prints _putchar and new line
  *
  * return: always 0
  */
@@ -18,5 +17,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-return 0;
+return (0);
 }
